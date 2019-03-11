@@ -20,6 +20,11 @@ dependencies {
     implementation 'com.android.support:palette-v7:28.0.0'
 }
 ```
+##### 1.Few ScreenShots
+Shadow | Corner Radius | Shadow Offset
+---|---|---
+<img src = "https://user-images.githubusercontent.com/22986571/54161886-ae72c700-4479-11e9-87ad-ff5b07bfc30e.png" width = 250 height = 400/> | <img src = "https://user-images.githubusercontent.com/22986571/54161900-b6326b80-4479-11e9-96e2-3fb7f11981f5.png" width = 250 height = 400/> | <img src = "https://user-images.githubusercontent.com/22986571/54161906-bdf21000-4479-11e9-9209-7a7cae9caf58.png" width = 250 height = 400/>
+
 XML
 -----
 
