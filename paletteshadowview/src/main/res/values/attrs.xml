@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="PaletteShadowView">
+        <attr name="paletteRoundRadius" format="integer" />
+        <attr name="paletteSrc" format="reference" />
+        <attr name="paletteOffsetX" format="integer" />
+        <attr name="paletteOffsetY" format="integer" />
+        <attr name="paletteShadowRadius" format="integer" />
+        <attr name="paletteShadowColor" format="color"/>
+
+    </declare-styleable>
+</resources>
